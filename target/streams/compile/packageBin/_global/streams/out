@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Lenovo\Desktop\spark\target\scala-2.12\heart-disease-prediction_2.12-1.0.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease\HeartDiseaseApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease\HeartDiseaseApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease\HeartDiseaseApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease\HeartDiseaseApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease\ModelTrainer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease\ModelTrainer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease\ModelTrainer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease\ModelTrainer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease\PredictionServer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease\PredictionServer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease\PredictionServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease\PredictionServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	heartdisease\PredictionServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\heartdisease\PredictionServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	web[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\web[0m
+[0m[[0m[0mdebug[0m] [0m[0m	web\app.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\web\app.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	web\index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\web\index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	web\styles.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Lenovo\Desktop\spark\target\scala-2.12\classes\web\styles.css[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

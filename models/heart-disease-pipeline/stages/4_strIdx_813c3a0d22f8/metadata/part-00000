@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1793390390338,"sparkVersion":"3.5.8","uid":"strIdx_813c3a0d22f8","paramMap":{"outputCol":"slope_idx","inputCol":"slope","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"strIdx_813c3a0d22f8__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

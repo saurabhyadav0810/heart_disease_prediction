@@ -1,0 +1,20 @@
+2026.10.30 23:40:14 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Lenovo\Desktop\spark' for client Visual Studio Code 1.144.0.
+2026.10.30 23:40:14 INFO  Memory monitor started
+2026.10.30 23:40:15 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.31 00:37:43 INFO  no build target found for C:\Users\Lenovo\Desktop\spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.31 00:37:43 WARN  no build target for: C:\Users\Lenovo\Desktop\spark\build.sbt
+2026.10.31 01:17:26 INFO  Shutting down server
+2026.10.31 01:17:26 INFO  Memory monitor stopped
+2026.10.31 01:17:26 INFO  shutting down Metals
+2026.10.31 01:17:26 INFO  Exiting server
+2026.11.10 13:16:54 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Lenovo\Desktop\spark' for client Visual Studio Code 1.145.0.
+2026.11.10 13:16:55 INFO  Memory monitor started
+Nov 10, 2026 1:16:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.10 13:16:56 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.10 13:16:57 INFO  no build target found for C:\Users\Lenovo\Desktop\spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.10 13:16:57 WARN  no build target for: C:\Users\Lenovo\Desktop\spark\build.sbt
+2026.11.10 13:16:58 INFO  Shutting down server
+2026.11.10 13:16:58 INFO  Memory monitor stopped
+2026.11.10 13:16:58 INFO  shutting down Metals
+2026.11.10 13:16:59 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
